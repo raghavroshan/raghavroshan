@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raghavroshan.
 - 👀 I’m interested in Ethical Hacking.
 - 🌱 I’m currently learning Cloud Computing.
-- 💞️ I’m looking to collaborate on #Nothing.
 - 📫 How to reach me # https://in.linkedin.com/in/raghavroshan
 
 <!---
