@@ -1,5 +1,6 @@
 Raghav Roshan![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="raghavroshan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/raghavroshan?trk=profile-badge">Raghav R.</a></div>
+              
 <h1 align="center">Hey👋, I'm Raghav.</h1>
 <h3 align="center">"Crafting elegant solutions one line of code at a time."</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/6f255b66b47146150a6aa56e01486184/tenor.gif?itemid=17190101">
