@@ -9,7 +9,7 @@ Raghav Roshan![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/sim
 
 <p align="left"> <a href="https://twitter.com/nitk_raghav" target="blank"><img src="https://img.shields.io/twitter/follow/nitk_raghav?logo=twitter&style=for-the-badge" alt="nitk_raghav" /></a> </p>
 
-- 📫 How to reach me **o4utech@gmail.com**
+- 📫 How to reach me ...........^
 
 - 📄 Know about me [https://craftmycv.com/resume/raghav-roshan](https://craftmycv.com/resume/raghav-roshan)
 
