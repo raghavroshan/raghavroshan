@@ -4,6 +4,7 @@ Raghav Roshan![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/sim
 <h1 align="center">Hey👋, I'm Raghav.</h1>
 <h3 align="center">"Crafting elegant solutions one line of code at a time."</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/6f255b66b47146150a6aa56e01486184/tenor.gif?itemid=17190101">
+<img align="right" alt="Coding" width="400" src="https://github.com/raghavroshan/raghavroshan/assets/154791355/21530bfe-8c0f-43fd-928b-e355938db49f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavroshan&label=Profile%20views&color=0e75b6&style=flat" alt="raghavroshan" /> </p>
 
